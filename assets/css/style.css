@@ -23,8 +23,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Noto Sans KR", sans-serif;
 }
 
-h1 { line-height:2}
-
 p { line-height: 2;}
 /*--------------------------------------------------------------
 # Back to top button
@@ -427,7 +425,7 @@ p { line-height: 2;}
   margin: 0 0 10px 0;
   font-size: 48px;
   font-weight: 300;
-  line-height: 56px;
+  line-height: 1.8;
   text-transform: uppercase;
   font-weight: 500;
   color: #fff;
